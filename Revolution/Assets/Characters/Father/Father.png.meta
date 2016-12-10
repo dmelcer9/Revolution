@@ -1,13 +1,13 @@
 fileFormatVersion: 2
-guid: 4da135443226ead42b9aebcf09d5aee3
-timeCreated: 1481393779
+guid: 68c3435462f1b9d4ab191f7ad558d7f9
+timeCreated: 1481393672
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: Student 2_0
-    21300002: Student 2_1
-    21300004: Student 2_2
-    21300006: Student 2_3
+    21300000: Father_0
+    21300002: Father_1
+    21300004: Father_2
+    21300006: Father_3
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -74,7 +74,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Student 2_0
+      name: Father_0
       rect:
         serializedVersion: 2
         x: 0
@@ -87,7 +87,7 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Student 2_1
+      name: Father_1
       rect:
         serializedVersion: 2
         x: 192
@@ -100,7 +100,7 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Student 2_2
+      name: Father_2
       rect:
         serializedVersion: 2
         x: 0
@@ -113,7 +113,7 @@ TextureImporter:
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Student 2_3
+      name: Father_3
       rect:
         serializedVersion: 2
         x: 192
